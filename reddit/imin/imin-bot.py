@@ -35,9 +35,9 @@ def main():
     autoMod = "AutoModerator"
     #subreddit = r.subreddit("masterhacker+cybersecurity+hacking+Hacking_Tutorials")
     subreddit = r.subreddit("all") ## This is only here for mass testing -- Remove when comleted.
-    footer = "\n\n^*Beep Boop Wee Doo! I am a bot and this action was performed automatically.*^"
-    tempphrase = "\n^*I am currently under development and learning to not be annoying. My inbox will be temporarily " \
-                 "monitored.*^"
+    footer = "\n\n*^(Beep Boop Wee Doo! I am a bot and this action was performed automatically.)*"
+    tempphrase = "\n*^(I am currently under development and learning to not be annoying. My inbox will be temporarily " \
+                 "monitored.)*"
 
     for submission in subreddit.stream.submissions():
         if re.search(r"\bhacker\b | \bhackers\b", submission.title, re.IGNORECASE):

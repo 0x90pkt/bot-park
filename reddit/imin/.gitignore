@@ -1,0 +1,4 @@
+praw.ini
+*.log
+Example_Bot.py
+testing.py

@@ -1,0 +1,25 @@
+"Amateurs hack systems, professionals hack people." --Bruce Schneier
+"If you spend more on coffee than on IT security, you will be hacked. What’s more, you deserve to be hacked." --Richard Clark
+"Time is what determines security. With enough time nothing is unhackable." --Aniekee Tochukwu Ezekiel
+"No technology that’s connected to the Internet is unhackable." --Abhijit Naskar
+"Never underestimate the determination of a kid who is time-rich and cash-poor." --Cory Doctorow
+"I'm in!!" --Every Hacker
+"I was addicted to hacking, more for the intellectual challenge, the curiosity, the seduction of adventure; not for stealing, or causing damage or writing computer viruses." --Kevin Mitnick
+"One single vulnerability is all an attacker needs." --Window Snyder
+"For every lock, there is someone out there trying to pick it or break in." --David Bernstein
+"While many hackers have the knowledge, skills, and tools to attack computer systems, they generally lack the motivation to cause violence or severe economic or social harm." --Dorothy E. Denning
+"We're in!" --David Lightman
+"Would you like to play a game?" --Joshua
+"Mess with the best, die like the rest." --Dade Murphy
+"There are worse things than death, and uh, I can do all of them." --The Plague
+"Hack the planet!" --Dade Murphy
+"Remember, hacking is more than just a crime. It's a survival trait." --Razor
+"I couldn't think as slow as you if I tried." --Taz (Rat) Finch
+"It's a UNIX system! I know this!" --Lex Murphy
+“Human Stupidity, that’s why Hackers always win." -― Med Amine Khelifi
+"Never tell everything you know…" -― Roger H. Lincoln
+"There are few sources of energy so powerful as a procrastinating college student." -― Paul Graham
+"What hackers do is figure out technology and experiment with it in ways many people never imagined. They also have a strong desire to share this information with others and to explain it to people whose only qualification may be the desire to learn." -― Emmanuel Goldstein
+"As a matter of fact, yeah, they were foolproof. The problem is that you don’t have to protect yourself against fools. You have to protect yourself against people like me." -― Jeffery Deaver
+"Younger hackers are hard to classify. They’re probably just as diverse as the old hackers are. We’re all over the map." ―- Larry Wall
+"Most hackers are young because young people tend to be adaptable. As long as you remain adaptable, you can always be a good hacker." -― Emmanuel Goldstein

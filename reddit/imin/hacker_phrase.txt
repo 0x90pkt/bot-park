@@ -23,3 +23,18 @@
 "As a matter of fact, yeah, they were foolproof. The problem is that you don’t have to protect yourself against fools. You have to protect yourself against people like me." -― Jeffery Deaver
 "Younger hackers are hard to classify. They’re probably just as diverse as the old hackers are. We’re all over the map." ―- Larry Wall
 "Most hackers are young because young people tend to be adaptable. As long as you remain adaptable, you can always be a good hacker." -― Emmanuel Goldstein
+"It is not the monsters we should be afraid of; it is the people that don’t recognize the same monsters inside of themselves." -― Shannon L. Alder
+"We worried for decades about WMDs – Weapons of Mass Destruction. Now it is time to worry about a new kind of WMDs – Weapons of Mass Disruption." -― John Mariotti
+"Be very careful. We suggest getting a book on HTML to avoid becoming a real legend in the hacker world. Putting up a web page before you know how to put up a web page is generally a very bad idea. The .gov sites are an exception." -― Emmanuel Goldstein, Dear Hacker: Letters to the Editor of 2600
+"My actions constituted pure hacking that resulted in relatively trivial expenses for the companies involved, despite the government’s false claims" -– Harry Hariom Choudhary
+"It’s less about technology for me and more about religion. [on hacking]" --Adrian Lamo
+"I'm not an economist; I'm a hacker who has spent his career exploring and repairing large networks." --Dan Kaminsky
+"When a hacker gains access to any corporate data, the value of that data depends on which server, or sometimes a single person's computer, that the hacker gains access to." --John McAfee
+"If you give a hacker a new toy, the first thing he'll do is take it apart to figure out how it works." --Jamie Zawinksi
+"It was on a bulletin board that I first learned about hacker culture, the 'Let's just break through this wall and see what's on the other side' mentality." --Harper Reed
+"The beginnings of the hacker culture as we know it today can be conveniently dated to 1961, the year MIT acquired the first PDP-1." --Eric S. Raymond
+"It takes 20 years to build a reputation and few minutes of cyber-incident to ruin it." -- Stephane Nappo
+"If you think you know-it-all about cybersecurity, this discipline was probably ill-explained to you." --Stephane Nappo
+"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards – and even then I have my doubts." --Eugene H. Spafford
+"If you think technology can solve your security problems, then you don’t understand the problems and you don’t understand the technology." --Bruce Schneier
+"There are two types of companies: those that have been hacked and those that will be." --Robert Mueller

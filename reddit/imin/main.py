@@ -1,20 +1,7 @@
-import praw
-import sys
-import os
-import re
-import time
-import random
-from threading import Thread
+from multiprocessing import Process
 from bot import *
 
-
-def main():
-
-    # call threaded functions
-    post.start()
-    call.start()
-    vote.start()
-
+# TODO: Add graceful shutdown
 
 if __name__ == "__main__":
     # check for required files
@@ -22,8 +9,12 @@ if __name__ == "__main__":
     # start instance and setup for running on separate threads
     r = bot.instantiate()
     print("Bot is running...")
-    bot = bot()
-    post = Thread(bot.postReply(r))
-    call = Thread(bot.calling(r))
-    vote = Thread(bot.vote(r))
-    main()
+    post = Process(target=bot.postReply, args=(bot, r))
+    call = Process(target=bot.calling, args=(bot, r))
+    vote = Process(target=bot.vote, args=(bot, r))
+    print("Processes have been created! \nInitiating processes...\n")
+    post.start()
+    call.start()
+    vote.start()
+    time.sleep(0.5)
+    print("\n")

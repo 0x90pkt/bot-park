@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 import praw
 import sys
 import os

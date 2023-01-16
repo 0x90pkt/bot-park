@@ -6,6 +6,8 @@ import time
 import random
 from threading import Thread
 
+'''THIS FILE IS DEPRECATED. PLEASE REFER TO BOT.PY FOR UPDATES.'''
+
 # TODO: Add "good/bad bot" comment replies
 #   Add at least 100 quotes/phrases in txt
 #   Create logic to reply to "breach" and "hacker" respectively
